@@ -3,8 +3,7 @@
 Hi, I'm **Yash Tingare**.
 
 🎓 Aspiring Data Scientist passionate about turning data into meaningful insights.  
-📚 Currently learning and building projects in **Data Science**, **Machine Learning**, and **Data Analysis**.  
-🐍 Skilled in **Python** and familiar with tools like **JupyterLab**, **VS Code**, **Git**, **GitHub**, and **MySQL**.  
+🐍 Skilled in **Python** and familiar with tools like **JupyterLab**, **VS Code**, **Git**, **GitHub**.
 📊 Interested in data visualization, predictive analytics, and real-world problem solving.  
 🚀 Continuously improving my skills through projects and hands-on learning.  
 
